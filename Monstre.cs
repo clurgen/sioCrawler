@@ -1,3 +1,3 @@
-Monstre:Personnage {
+class Monstre:Personnage {
 
 }
